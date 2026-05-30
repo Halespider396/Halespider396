@@ -25,6 +25,8 @@ Arch Linux • Hyprland • Neovim
 
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halespider396&layout=compact&theme=dark&hide_dorder=true"/>
+
 ```bash
 OS        : Arch Linux 
 WM        : Hyprland 
