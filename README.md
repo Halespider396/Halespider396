@@ -18,14 +18,14 @@ Arch Linux • Hyprland • Neovim
 
 
 
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=black)
 
 
 
 
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halespider396&layout=compact&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halespider396&layout=compact&theme=tokyonight"/>
 
 ```bash
 OS        : Arch Linux 
