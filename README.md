@@ -6,7 +6,7 @@
 Arch Linux • Hyprland • Neovim
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Halespider396&theme=transparent&show_icons=true&hide_border=true"/>
+![](https://komarev.com/ghpvc/?username=Halespider396&color=blue)
 
 ```bash
 OS        : Arch Linux
