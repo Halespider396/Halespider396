@@ -1,4 +1,4 @@
-<img src="1000008239.jpg" width=100/>
+<img src="1000008239.jpg" width=400/>
 
 <div align="center">
 # Alex
