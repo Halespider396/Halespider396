@@ -10,7 +10,7 @@ Arch Linux • Hyprland • Neovim
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=black) <img src="https://img.shields.io/badge/LazyVim-57A143?style=for-the-badge&logo=lazyvim&logoColor=white"/> ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halespider396&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Halespider396&theme=dark&hide_border=true"/>
 
 ```bash
 OS        : Arch Linux 
